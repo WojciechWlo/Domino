@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1575315193 source:c:\users\vojci\desktop\domino\main.cpp
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<time.h>
+
